@@ -35,6 +35,10 @@ jupyter notebook Credit_Card_Fraud.ipynb
   - Seaborn
 
 ## Dataset
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 The dataset used in this project is publicly available and contains anonymized credit card transaction records, including labeled fraudulent cases.
 
 ## License
